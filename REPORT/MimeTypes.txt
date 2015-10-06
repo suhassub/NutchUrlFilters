@@ -1,0 +1,23 @@
+﻿MIME TYPES
+
+The following mime types were identified : 
+ 
+1. text/x-java-source
+2. application/atom+xml
+3. text/x-csrc
+4. image/jpeg
+5. image/png
+6. text/html
+7. image/gif
+8. text/x-objcsrc
+9. application/xml
+10. application/rss+xml
+11. text/plain
+12. application/xhtml+xml
+13. application/x-sh
+14. application/pdf
+15. text/dif+xml
+
+
+
+

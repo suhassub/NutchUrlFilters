@@ -1,0 +1,93 @@
+﻿CRAWL STATISTICS
+
+
+STATISTICS WITHOUT TIKA
+
+1. NASA AMD without selenium,GDAL,TIKA and TESSERACT for 5 rounds
+
+Statistics for CrawlDb: SecondRunNASA5/crawldb/
+
+TOTAL urls:	32213
+retry 0:	32159
+retry 1:	54
+min score:	0.0
+avg score:	6.9350885E-5
+max score:	1.017
+status 1 (db_unfetched):	28475
+status 2 (db_fetched):	3279
+status 3 (db_gone):	100
+status 4 (db_redir_temp):	20
+status 5 (db_redir_perm):	2
+status 7 (db_duplicate):	337
+
+2. NSIDC ADE without selenium,GDAL,TIKA and TESSERACT for 4 rounds
+
+Statistics for CrawlDb: FirstRunNSIDC4/crawldb/
+
+TOTAL urls:	3711
+retry 0:	3638
+retry 1:	73
+min score:	0.0
+avg score:	6.1438966E-4
+max score:	1.0
+status 1 (db_unfetched):	2482
+status 2 (db_fetched):	658
+status 3 (db_gone):	485
+status 4 (db_redir_temp):	20
+status 5 (db_redir_perm):	26
+status 7 (db_duplicate):	40
+
+3. NSF ACADIS without selenium,GDAL,TIKA and TESSERACT for 6 rounds
+
+Statistics for CrawlDb: urls3Crawl/crawldb/
+
+TOTAL urls:	8088
+retry 0:	8047
+retry 1:	41
+min score:	0.0
+avg score:	2.8115726E-4
+max score:	1.018
+status 1 (db_unfetched):	4721
+status 2 (db_fetched):	1284
+status 3 (db_gone):	228
+status 4 (db_redir_temp):	1524
+status 5 (db_redir_perm):	331
+
+
+
+STATISTICS WITH TIKA
+
+1. NASA AMD with selenium,GDAL,TIKA and TESSERACT for 5 rounds
+
+Statistics for CrawlDb: CrawlURL1R7/crawldb/
+
+TOTAL urls:	105992
+retry 0:	105941
+retry 1:	51
+min score:	0.0
+avg score:	2.1275191E-5
+max score:	1.018
+status 1 (db_unfetched):	95573
+status 2 (db_fetched):	8966
+status 3 (db_gone):	252
+status 4 (db_redir_temp):	346
+status 5 (db_redir_perm):	2
+status 7 (db_duplicate):	853
+
+2. NSF ACADIS with selenium,GDAL,TIKA and TESSERACT for 5 rounds
+
+Statistics for CrawlDb db: CrawlURL3R5/crawldb/
+
+TOTAL urls:	4243
+retry 0:	4221
+retry 1:	22
+min score:	0.0
+avg score:	4.899835E-4
+max score:	1.003
+status 1 (db_unfetched):	2581
+status 2 (db_fetched):	544
+status 3 (db_gone):	128
+status 4 (db_redir_temp):	814
+status 5 (db_redir_perm):	176
+
+

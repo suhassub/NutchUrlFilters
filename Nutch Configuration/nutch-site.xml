@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="configuration.xsl"?>
+
+<!-- Put site-specific property overrides in this file. -->
+<configuration>
+    
+    <property>
+        <name>http.agent.name</name>
+        <value>CS572Crawler</value>
+    </property>
+    
+    <property>
+        <name>http.robots.agents</name>
+        <value>CS572Crawler,*</value>
+    </property>
+    
+    <property>
+        <name>http.agent.url</name>
+        <value>http://www-scf.usc.edu/~shantanb/cs572_bot.html</value>
+    </property>
+    
+    <property>
+        <name>http.agent.email</name>
+        <value>shantanb@usc.edu</value>
+    </property>
+    
+    <property>
+        <name>fetcher.server.delay</name>
+        <value>1</value>
+    </property>
+    
+</configuration>
